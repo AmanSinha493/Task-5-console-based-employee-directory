@@ -3222,9 +3222,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aman.s\\OneDrive - Technovert\\Desktop\\Task-5\\Task-5.csproj",
-      "projectName": "Task-5",
-      "projectPath": "C:\\Users\\aman.s\\OneDrive - Technovert\\Desktop\\Task-5\\Task-5.csproj",
+      "projectUniqueName": "C:\\Users\\aman.s\\OneDrive - Technovert\\Desktop\\Task-5\\dI practice.csproj",
+      "projectName": "dI practice",
+      "projectPath": "C:\\Users\\aman.s\\OneDrive - Technovert\\Desktop\\Task-5\\dI practice.csproj",
       "packagesPath": "C:\\Users\\aman.s\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aman.s\\OneDrive - Technovert\\Desktop\\Task-5\\obj\\",
       "projectStyle": "PackageReference",
